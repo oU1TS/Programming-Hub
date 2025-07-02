@@ -8,8 +8,8 @@
 
 # Note
 - Fork the main branch for backup + Social Creds
-- Create a branch with your name
-- Create a folder with your name (only edit your folder)
+- Create a branch with your Department_Batch_ID_Name
+- Create a folder with your Department_Batch_ID_Name (only edit your folder)
 - before Creating Pull Request make sure to delete garbage files:
 > - *.exe *.o (for C/CPP)
 > - NetBeans or IDE created files (for JAVA)
