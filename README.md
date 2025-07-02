@@ -1,5 +1,5 @@
 # Programming-Hub
-
+Central repository for university students. It intends to facilitate multiple students working on their own project, in their separate folder. But at the same time enables them to work with others in group projects if they wish to do so.  
 
 # Purpose
 - getting used to the GitHub's work environment. 
