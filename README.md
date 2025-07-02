@@ -10,7 +10,8 @@
 - Fork the main branch for backup + Social Creds
 - Create a branch with your Department_Batch_ID_Name
 - Select your branch and clone it / "open in GitHub Desktop"
-- Create a folder with your Department_Batch_ID_Name (only edit your folder)
+- Follow the file structure Root/Batch/ create a folder her with your Department_Batch_ID_Name (only edit your folder). So the final file path looks like this:
+> Root/Batch/Department_Batch_ID_Name
 - before Creating Pull Request make sure to delete garbage files:
 > - *.exe *.o (for C/CPP)
 > - NetBeans or IDE created files (for JAVA)
